@@ -1,0 +1,18 @@
+{
+    "manifest": {
+        "author": "eepcheep",
+        "name": "UNDERTALE Theme",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/github.com\/eepcheep\/test\/blob\/main\/DTM-Sans.otf?raw=true"
+    },
+    "simple_colors": {
+        "background": -16777216,
+        "background_secondary": -16579837
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
